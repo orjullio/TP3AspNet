@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3AspNet", "TP3AspNet\TP3AspNet.csproj", "{0427BC2B-4A51-4B20-B1F0-A9C8A7BC1B2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0427BC2B-4A51-4B20-B1F0-A9C8A7BC1B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0427BC2B-4A51-4B20-B1F0-A9C8A7BC1B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0427BC2B-4A51-4B20-B1F0-A9C8A7BC1B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0427BC2B-4A51-4B20-B1F0-A9C8A7BC1B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B8F348F-13EA-49E8-81D3-965AED71FF50}
+	EndGlobalSection
+EndGlobal
